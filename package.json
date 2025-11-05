@@ -13,8 +13,5 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "module",
-  "dependencies": {
-    "sharp": "^0.34.4"
-  }
+  "type": "module"
 }
